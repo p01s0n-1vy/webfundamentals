@@ -1,0 +1,23 @@
+body {
+    background: #f87be3; 
+    font-family: Tahoma, Arial, sans-serif;
+    color:rgb(11, 10, 12);
+    background-image: url("https://i.etsystatic.com/13556959/r/il/f4d64c/1935190282/il_794xN.1935190282_nfhm.jpg")
+}
+
+h1 {
+    border-style: dotted;
+    color: rgb(35, 8, 156);
+    font: 32px Garamond, Helvetica, serif;
+    
+}
+h2 {
+    border-style: dotted;
+    color: blueviolet;
+    font: 32px Garamond, Helvetica, serif;
+
+    
+}
+#submit-btn {
+    display: block;
+}
